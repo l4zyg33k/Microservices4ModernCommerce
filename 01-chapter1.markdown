@@ -46,5 +46,5 @@
 
 마이크로서비스가 "해킹 콘웨이의 법칙(Hacking Conway's Law)" 이라고 종종 불리우는 데는 그의 독창적인 논문에서 나온 콘웨이의 유명한 관찰이 마이크로서비스에서 매우 중요했습니다.
 
-!(https://raw.githubusercontent.com/l4zyg33k/Microservices4ModernCommerce/master/figures/fig1-1.png)
+![그림 1-1. 기업 내에서 일반적인 수평 중심의 전문화](https://raw.githubusercontent.com/l4zyg33k/Microservices4ModernCommerce/master/figures/fig1-1.png)
 그림 1-1. 기업 내에서 일반적인 수평 중심의 전문화
