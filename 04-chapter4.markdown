@@ -224,4 +224,4 @@ Dockerfile은 주기적으로 테스트 및 업그레이드를 해야 하며 또
  당신은 중개자 역할을하는 일종의 API 게이트웨이가 필요할 것입니다. __[그림 4-4]__ 참고
 
  ![](https://github.com/l4zyg33k/Microservices4ModernCommerce/blob/master/figures/figure4_4.png)  
- [그림4-4]  공격 패턴
+ [그림4-4]  웹사이트 패턴
