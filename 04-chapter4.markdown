@@ -184,7 +184,7 @@ Dockerfile은 주기적으로 테스트 및 업그레이드를 해야 하며 또
 ![](https://github.com/l4zyg33k/Microservices4ModernCommerce/blob/master/figures/figure4_3.png)
 그림 4-3 상거래 트래픽은 뾰족한 형태를 나타내고 있음
 
-이것은 오직 웹트래픽일 뿐입니다. 만야 이 소매업자가 OmniChannel(유통채널)이 된다면 뾰족점은 더욱 극적일 것입니다. 
+이것은 오직 웹트래픽일 뿐입니다. 만약 이 소매업자가 OmniChannel(유통채널)을 이용하게 된다면 뾰족점은 더욱 극적일 것입니다. 
 클라우드와 컨테이너가 나오기 전에 이 문제는 과도한 트래픽 처리때문에 정상 상태에서 시스템을 몇 퍼센트밖에 사용할수 없었습니다. 이러한 관행은 낭비를 넘어 더 이상 필요하지 않습니다.
 
 
@@ -224,4 +224,4 @@ Dockerfile은 주기적으로 테스트 및 업그레이드를 해야 하며 또
  당신은 중개자 역할을하는 일종의 API 게이트웨이가 필요할 것입니다. __[그림 4-4]__ 참고
 
  ![](https://github.com/l4zyg33k/Microservices4ModernCommerce/blob/master/figures/figure4_4.png)  
- [그림4-4]  웹사이트 패턴
+ [그림4-4]  웹사이트 패턴 
