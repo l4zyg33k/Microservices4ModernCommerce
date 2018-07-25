@@ -158,11 +158,13 @@ GET /Inventory/product12345
 	설계한 API와 맞추기 위한 클라이언트와 서버사이드 스텁을 생성하세요. 이는 구축 및 호출 마이크로서비스를 획기적으로 간소화합니다.
 
 그림 3-1) Swagger를 사용한 인벤토리 예약 AP를 모델링 예시를 보여줍니다.
- 
-Figure 3-1. Swagger definition
+
+![Figure 3-1. Swagger definition](https://github.com/l4zyg33k/Microservices4ModernCommerce/blob/master/figures/figure3_1.png)
+
 그림 3-2에서 보여진 YAML 정의로부터 서버 및 클라이언트 측 스텁을 생성할 수 있게 됩니다.
 
-Figure 3-2. Swagger server stubs
+![Figure 3-2. Swagger server stubs](https://github.com/l4zyg33k/Microservices4ModernCommerce/blob/master/figures/figure3_2.png)
+
 이러한 정의를 소스코드로 확인합니다. 업무에 가장 적합한 표준과 툴을 선택하십시오. 가장 중요한 것은 당신이 만들어내는 모든 마이크로서비스에서 이를 일관되게 사용하는 것입니다.
 
 #### Versioning
