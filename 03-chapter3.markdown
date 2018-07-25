@@ -199,14 +199,14 @@ Containers
  
  Docker의 경우, Dockerfiles를 사용하여 선언적으로 컨테이너를 만듭니다. Dockerfiles는 소프트웨어 및 종속성을 설치/ 구성/ 실행하는 데 필요한 명령과 기본 Docker 이미지를 정의하는 간단한 YAML (YAML Mark not Language) 스크립트입니다. 다음은 매우 간단한 예입니다:
 FROM centos:centos6
-# Enable Extra Packages for Enterprise Linux (EPEL) for CentOS
+-# Enable Extra Packages for Enterprise Linux (EPEL) for CentOS
 RUN yum install -y epel-release
-# Install Node.js and npm
+-# Install Node.js and npm
 RUN yum install -y nodejs npm
-# Install app dependencies
+-# Install app dependencies
 COPY package.json /src/package.json
 RUN cd /src; npm install
-# Bundle app source
+-# Bundle app source
 COPY . /src
 EXPOSE 8080
 CMD ["node", "/Inventory/index.js"]
