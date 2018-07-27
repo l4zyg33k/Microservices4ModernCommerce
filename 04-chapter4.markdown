@@ -247,8 +247,8 @@ __tip__
   Service Oriented Architecture(SOA)의 핵심 과제는 메시지가 너무 "지능적"인, 중앙 집중식Enterprise Service Bus(ESB)를 통해 라우팅되는 것입니다. 
 
 ```xml
-  Micro Service 커뮤니티는 다른 접근 방식: 단순한 애플리케이션간 연동과 파이프 처리를 선호합니다. 
-—	Martin Fowler, 2014
+  Micro Service 커뮤니티는 다른 접근 방식: 단순한 애플리케이션간 연동과 파이프 처리를 선호합니다.
+  —	Martin Fowler, 2014
 ```
 
 이 모델에서 Micro Service ESB와 같은 "파이프"가 아닌, 스스로 모든 지능을 보유합니다.
@@ -280,7 +280,7 @@ Micro Services는 수십, 수백 또는 심지어 수천 개의 팀이 원활하
 전반적으로, Micro Service는 어플리케이션이 충분히 복잡하고, 당신이 속한 조직이 성숙한 상태인 상태에서 가치가 있습니다. Micro Service와 함께 새로운 세상에 도전해보세요. 
 
 
-# 저자에 관하여(About the Author)
+## 저자에 관하여(About the Author)
 Kelly Goetsch는 commercetools의 운영, 개발 및 배포를 총괄하는 책임자입니다. Oracle에서 commercetools로 온 후 제품 관리를 위한 Micro Service 계획을 이끌었습니다. 그는 9자리 단위의 수익을 내는 핵심 오라클 Cloud 제품의 고위급 비즈니스와 함께 시장 진입 전략 책임을 맡았습니다.
  
 Oracle에 입사하기 전에 그는 ATG(Oracle 인수)의 수석 설계사였으며 31 개의 대규모 ATG 의 프로젝트에 중요한 업무를 맡았습니다. ATG시절의 마지막 해, 그는 전세계 Walmart의 ATG 프로젝트를 감독하였습니다. 그는 시카고 일리노이 대학 (University of Illinois University)에서 경영학 정보 시스템 석사 학위와 학사 학위를 취득했습니다. 그는 분산 컴퓨팅의 핵심을 포함하여 세 가지 특허를 보유하고 있습니다.
